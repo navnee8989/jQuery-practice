@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* overflow: hidden; */
+}
+
+.conteiner{
+    width: 1000px;
+    height: 500px;
+    margin: 20px auto;
+    position: relative;
+    overflow: hidden;
+}
+.slider{
+    display: flex;
+    position: absolute;
+    /* top: 20px; */
+}
+nav{
+    /* position: absolute; */
+  
+   display: flex;
+   top: 20px;
+
+   justify-content: center;
+}
